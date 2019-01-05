@@ -1,4 +1,4 @@
-# Hobbes Bot
+# Hobbes. A Discord bot.
 > Discord bot made from the discord.js library. WIP.
 
 
